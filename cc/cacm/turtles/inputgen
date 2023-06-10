@@ -1,0 +1,18 @@
+#!/bin/bash
+NUM_T=800;
+NUM_C=1;
+NAME="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. XXX. XXXXXXX. XXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXX .XXXXXXXXX"
+
+echo $NUM_C
+for(( c = 0; c < $NUM_C; ++c ))
+do
+	echo $NUM_T
+	for(( t = $NUM_T-1; t >= 0; --t))
+	do
+		echo $NAME$t
+	done
+	for(( t = 0; t < $NUM_T; ++t))
+	do
+		echo $NAME$t
+	done
+done

@@ -16,3 +16,15 @@ bin/
 .settings/
 .classpath
 .project
+
+# Haskell
+*.hi
+
+# C++, ASM
+*.o
+*.s
+*.out
+
+# Pictures
+*.ppm
+!Lenna.ppm

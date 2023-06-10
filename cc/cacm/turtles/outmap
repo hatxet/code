@@ -1,0 +1,55 @@
+aindex[1]=0
+aindex[0]=1
+aindex[2]=2
+low = aindex[2]=2
+mid = aindex[1]=0
+up = aindex[0]=1
+Duke of Earl 
+
+aindex[0]=0
+aindex[3]=1
+aindex[2]=2
+aindex[4]=3
+aindex[5]=4
+aindex[1]=5
+aindex[6]=6
+aindex[7]=7
+aindex[8]=8
+low = aindex[8]=8
+mid = aindex[7]=7
+up = aindex[6]=6
+while: low = aindex[6]=6
+while: mid = aindex[5]=7
+while: up = aindex[4]=6
+while: low = aindex[4]=3
+while: mid = aindex[3]=4
+while: up = aindex[2]=3
+Sir Lancelot 
+Richard M. Nixon 
+Yertle 
+
+aindex[3]=0
+aindex[0]=1
+aindex[1]=2
+aindex[2]=3
+aindex[4]=4
+aindex[6]=5
+aindex[5]=6
+low = aindex[6]=5
+mid = aindex[5]=6
+up = aindex[4]=4
+Kong 
+King 
+Yertle 
+Lord 
+Baron 
+Oscar 
+
+aindex[0]=0
+aindex[1]=1
+aindex[2]=2
+low = aindex[2]=2
+mid = aindex[1]=1
+up = aindex[0]=0
+while: low = aindex[0]=0
+

@@ -1,1 +1,1 @@
-Codewars
+Coding exploration
